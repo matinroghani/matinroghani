@@ -1,197 +1,160 @@
  <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=8&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=5" width="100%" />
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1000&color=B9A48A&center=true&vCenter=true&repeat=true&width=420&height=25&lines=FRONTEND+DEVELOPER;REACT+%C2%B7+NEXT.JS+%C2%B7+TYPESCRIPT;BUILD.+LEARN.+IMPROVE." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1800&color=B9A48A&center=true&vCenter=true&repeat=true&width=360&height=24&lines=FRONTEND+DEVELOPER;REACT+%C2%B7+NEXT.JS+%C2%B7+TYPESCRIPT" alt="Frontend Developer" />
 
   # Matin Roghani
 
-  ### Building interfaces with intention.
+  **Frontend Developer · React · Next.js · TypeScript**
 
-  I build modern web experiences that balance thoughtful design, maintainable code, and real-world functionality.
-
-  <br />
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-211D19?style=flat-square&logo=vercel&logoColor=D6B995)](https://portfolio-omega-olive-62.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-211D19?style=flat-square&logo=github&logoColor=E7D8C6)](https://github.com/matinroghani)
-  [![Telegram](https://img.shields.io/badge/Telegram-211D19?style=flat-square&logo=telegram&logoColor=D6B995)](https://t.me/matinrog)
+  I build thoughtful digital experiences with clean code, deliberate architecture, and attention to detail.
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E7D8C6&height=1&section=header" width="70%" />
+  [Portfolio](https://portfolio-omega-olive-62.vercel.app/) &nbsp; · &nbsp; [GitHub](https://github.com/matinroghani) &nbsp; · &nbsp; [Contact](https://t.me/matinrog)
+
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B995&height=1" width="55%" />
 
 </div>
 
-## A little about me
+### `01` / About
 
-I'm a Frontend Developer focused on building clean, responsive, and maintainable web applications.
+I'm a frontend developer focused on building modern, responsive web applications with React, Next.js, and TypeScript.
 
-I care about more than making interfaces look good. I enjoy understanding how products work, structuring applications properly, managing state, and turning complex requirements into intuitive user experiences.
+I enjoy turning ideas into practical products, designing reusable component systems, and keeping application architecture maintainable as projects grow.
 
-- Currently building with **React, Next.js, and TypeScript**.
-- Interested in scalable frontend architecture and thoughtful UI/UX.
-- Working on real-world products, dashboards, and business-oriented web applications.
-- Studying Computer Science at Shahrekord University.
-- Always learning, always building, always refining.
+- **Focus:** Frontend engineering and user experience
+- **Currently exploring:** Scalable application architecture and state management
+- **Background:** Computer Science student at Shahrekord University
+- **Mindset:** Build. Learn. Improve.
 
-> Good interfaces feel simple. Building them well takes thought.
-
-## Selected work
-
-<div align="center">
-
-  <a href="https://portfolio-omega-olive-62.vercel.app/">
-    <img src="https://img.shields.io/badge/01-PORTFOLIO-211D19?style=for-the-badge&labelColor=211D19&color=76634F" alt="Portfolio" />
-  </a>
-
-  <br />
-
-  **Personal Portfolio**
-
-  My own space on the web — presenting selected work, technical skills, and my journey as a developer.
-
-  `Next.js` · `React` · `TypeScript`
-
-  <br />
-
-  <a href="https://testal-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/02-TESTAL-211D19?style=for-the-badge&labelColor=211D19&color=76634F" alt="Testal" />
-  </a>
-
-  <br />
-
-  **Testal Frontend**
-
-  A B2B2C web platform built with a modern frontend stack.
-
-  `React` · `Next.js` · `TypeScript`
-
-  <br />
-
-  <a href="https://deutschraum-two.vercel.app/">
-    <img src="https://img.shields.io/badge/03-DEUTSCHRAUM-211D19?style=for-the-badge&labelColor=211D19&color=76634F" alt="Deutschraum" />
-  </a>
-
-  <br />
-
-  **Deutschraum**
-
-  A web project focused on a clean, accessible learning experience.
-
-  `React` · `TypeScript`
-
-  <br />
-
-  <a href="https://khorushanlian.vercel.app/">
-    <img src="https://img.shields.io/badge/04-KHORUSHAN_LIAN-211D19?style=for-the-badge&labelColor=211D19&color=76634F" alt="Khorushan Lian" />
-  </a>
-
-  <br />
-
-  **Khorushan Lian**
-
-  A business-oriented website for industrial power equipment and marine engineering services.
-
-  `React` · `TypeScript`
-
-  <br />
-
-  <a href="https://hamyar-front-gray.vercel.app/">
-    <img src="https://img.shields.io/badge/05-HAMYAR-211D19?style=for-the-badge&labelColor=211D19&color=76634F" alt="Hamyar" />
-  </a>
-
-  <br />
-
-  **Hamyar Front**
-
-  Frontend development for a modern web application.
-
-  `React` · `Next.js` · `TypeScript`
-
-</div>
-
-## Tech stack
-
-<div align="center">
-
-  ### Frontend
-
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
-
-  ### State management & UI
-
-  <img src="https://skillicons.dev/icons?i=redux,vite,materialui,figma&theme=dark" alt="State management and UI tools" />
-
-  ### Tools & workflow
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="Development tools" />
-
-</div>
-
-## What I value
+### `02` / Selected work
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>01 / Clean code</strong>
-      <br /><br />
-      Readable, maintainable code with clear responsibilities.
+    <td width="50%" valign="top">
+
+      **RASAD**
+
+      A livestock monitoring dashboard focused on herd management, health tracking, and data-driven analytics.
+
+      `Next.js` `TypeScript` `Redux Toolkit`
+
+      [View source ↗](https://github.com/matinroghani/admin-dashboard)
+
     </td>
-    <td width="50%">
-      <strong>02 / Good architecture</strong>
-      <br /><br />
-      Reusable components, predictable state, and scalable project structure.
+    <td width="50%" valign="top">
+
+      **Khorushan Lian**
+
+      A business website for industrial power equipment and marine engineering services.
+
+      `React` `TypeScript`
+
+      [Live website ↗](https://khorushanlian.vercel.app/)
+
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>03 / User experience</strong>
-      <br /><br />
-      Responsive layouts, accessibility, and details that make products feel polished.
+    <td width="50%" valign="top">
+
+      **Deutschraum**
+
+      A web project built with React and TypeScript.
+
+      `React` `TypeScript`
+
+      [Live website ↗](https://deutschraum-two.vercel.app/)
+
     </td>
-    <td width="50%">
-      <strong>04 / Continuous learning</strong>
-      <br /><br />
-      Understanding the why behind tools instead of simply using them.
+    <td width="50%" valign="top">
+
+      **Personal Portfolio**
+
+      A dedicated space to showcase my work, technical skills, and development journey.
+
+      `Next.js` `React` `TypeScript`
+
+      [Explore portfolio ↗](https://portfolio-omega-olive-62.vercel.app/)
+
     </td>
   </tr>
 </table>
 
-## GitHub activity
+### `03` / Technologies
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matinroghani&show_icons=true&hide_border=true&bg_color=211D19&title_color=D6B995&text_color=E7D8C6&icon_color=A8B18A&ring_color=A8B18A" alt="Matin's GitHub statistics" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinroghani&layout=compact&hide_border=true&bg_color=211D19&title_color=D6B995&text_color=E7D8C6" alt="Most used languages" />
-
-  <br /><br />
-
-  <img width="90%" src="https://streak-stats.demolab.com?user=matinroghani&hide_border=true&background=211D19&ring=A8B18A&fire=D6B995&currStreakLabel=D6B995&sideLabels=CFC3B4&currStreakNum=E7D8C6&sideNums=E7D8C6&dates=9B8D7D" alt="GitHub contribution streak" />
-
-</div>
-
-## Let's connect
-
-I'm open to meaningful collaborations, interesting frontend projects, and opportunities to keep growing as a developer.
-
-If you're building something thoughtful, I'd be glad to connect.
-
-<div align="center">
-
-  [**Explore my portfolio ↗**](https://portfolio-omega-olive-62.vercel.app/)
 
   <br />
 
-  [![GitHub](https://img.shields.io/badge/GitHub-211D19?style=flat-square&logo=github&logoColor=E7D8C6)](https://github.com/matinroghani)
-  [![Telegram](https://img.shields.io/badge/Telegram-211D19?style=flat-square&logo=telegram&logoColor=D6B995)](https://t.me/matinrog)
+  <sub>CORE</sub>
 
   <br /><br />
 
-  <sub><i>Build thoughtfully. Learn constantly. Improve relentlessly.</i></sub>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&theme=dark" alt="React, Next.js, TypeScript and JavaScript" />
+
+  <br /><br />
+
+  <sub>STYLING & STATE</sub>
+
+  <br /><br />
+
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,redux,vite&theme=dark" alt="Tailwind CSS, Bootstrap, Redux Toolkit and Vite" />
+
+  <br /><br />
+
+  <sub>TOOLS</sub>
+
+  <br /><br />
+
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Git, GitHub, Figma and VS Code" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=8&section=footer" width="100%" />
+### `04` / Engineering principles
+
+| Principle | What it means to me |
+|:--|:--|
+| Clean code | Readable code and clear responsibilities. |
+| Maintainability | Reusable components and predictable state. |
+| User experience | Responsive layouts and attention to detail. |
+| Continuous learning | Understanding concepts, not just using tools. |
+
+### `05` / GitHub
+
+<div align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matinroghani&show_icons=true&hide_border=true&bg_color=211D19&title_color=D6B995&text_color=E7D8C6&icon_color=A8B18A" alt="GitHub statistics" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinroghani&layout=compact&hide_border=true&bg_color=211D19&title_color=D6B995&text_color=E7D8C6" alt="Most used languages" />
+
+</div>
+
+### `06` / Beyond the code
+
+Computer Science student. Native Persian speaker. German language learner.
+
+Interested in thoughtful products, continuous improvement, and collaborating with people who care about the details.
+
+<div align="center">
+
+  <br />
+
+  **Have something interesting in mind?**
+
+  [Let's connect ↗](https://t.me/matinrog)
+
+  <br />
+
+  <sub>Build thoughtfully. Learn constantly. Improve relentlessly.</sub>
+
+  <br /><br />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=211D19&height=5" width="100%" />
+
+</div>
